@@ -30,6 +30,5 @@ This project is a simple **Kanban Board** web application designed for task mana
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-  ```
 
 
